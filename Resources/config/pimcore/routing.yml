@@ -1,0 +1,4 @@
+coreshop_admin_currency:
+  type: coreshop.resources
+  resource: |
+    alias: coreshop.currency
