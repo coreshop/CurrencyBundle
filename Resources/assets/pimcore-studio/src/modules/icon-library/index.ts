@@ -15,9 +15,9 @@ import { serviceIds } from '@pimcore/studio-ui-bundle/app'
 import { type IconLibrary } from '@pimcore/studio-ui-bundle/modules/icon-library'
 
 // @ts-ignore
-import currenciesIcon from '../assets/currencies.svg?react'
+import currenciesIcon from '../../assets/currencies.svg?react'
 // @ts-ignore
-import exchangeRateIcon from '../assets/exchange_rate.svg?react'
+import exchangeRateIcon from '../../assets/exchange_rate.svg?react'
 
 export const CurrencyBundleIconModule: AbstractModule = {
   onInit(): void {
